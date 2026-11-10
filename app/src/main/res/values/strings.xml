@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lecteur</string>
+    <string name="open_document">Ouvrir un document</string>
+    <string name="formats">Word, Excel, PowerPoint, PDF, OpenDocument, RTF, texte, images, archives ZIP, 7z, RAR, TAR, GZ…</string>
+    <string name="recents">Fichiers récents</string>
+    <string name="no_recents">Aucun fichier récent.\nAppuyez sur « Ouvrir un document » ou ouvrez un fichier depuis votre gestionnaire de fichiers.</string>
+    <string name="share">Partager</string>
+    <string name="open_with">Ouvrir avec une autre appli…</string>
+    <string name="info">Informations</string>
+    <string name="clear_history">Effacer l\'historique</string>
+    <string name="about">À propos</string>
+    <string name="about_text">Lecteur de documents simple.\n\n• Aucune publicité\n• Aucune connexion Internet (l\'application n\'en a pas la permission)\n• Lecture seule : vos documents ne sont jamais modifiés\n\nPartage par e-mail, SMS ou WhatsApp.</string>
+</resources>

@@ -212,7 +212,7 @@ class PptxRenderer(private val pkg: ZipPackage) {
             val x0 = c.x
             val w0 = c.w
             if (x0 != null && w0 != null && w0 > 0) {
-                var x = x0; var y = c.y; var w = w0; var h = c.h
+                var x: Double = x0; var y: Double = c.y; var w: Double = w0; var h: Double = c.h
                 for (g in groups.asReversed()) {
                     val sx = if (g.cex != 0.0) g.ex / g.cex else 1.0
                     val sy = if (g.cey != 0.0) g.ey / g.cey else 1.0
